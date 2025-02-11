@@ -39,10 +39,10 @@ Esta versión del scraper ha sido mejorada con respecto a la anterior para optim
 
 ### Instalación
 1. Clona este repositorio en tu máquina local:
-   git clone https://github.com/tuusuario/RealEstate-Scraper.git
+        git clone https://github.com/pcanadas/InmoScraper.git
 
 2. Instala las dependencias necesarias:
-    pip install -r requirements.txt
+        pip install -r requirements.txt
 
 3. Descarga ChromeDriver y asegúrate de que sea compatible con la versión de Chrome que tienes instalada.
 
