@@ -46,3 +46,12 @@ Esta versión del scraper ha sido mejorada con respecto a la anterior para optim
 
 3. Descarga ChromeDriver y asegúrate de que sea compatible con la versión de Chrome que tienes instalada.
 
+### Mecanismos anti-bloqueo
+Este scraper implementa varias estrategias para evitar ser detectado como un bot:
+
+- Rotación de agentes de usuario: Utiliza diferentes agentes de usuario para simular múltiples navegadores.
+- Tiempos de espera aleatorios: Introduce un retraso aleatorio entre las solicitudes para reducir la probabilidad de bloqueo.
+- Scroll automático: Realiza un desplazamiento (scroll) por la página para cargar contenido dinámico.
+
+
+
