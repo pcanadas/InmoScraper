@@ -1,10 +1,10 @@
-# # Crear un nuevo entorno virtual
+# Crear un nuevo entorno virtual
 ```
 python -m venv selenium_env
 ```
 
-# Activar el entorno virtual
-# En Windows
+**Activar el entorno virtual**
+En Windows
 ```
 source selenium_env/Scripts/activate
 ```
