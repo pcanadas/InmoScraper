@@ -5,6 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
+# Jupiter Notebooks
+jupiter_notebook/
 
 # Distribution / packaging
 .Python
